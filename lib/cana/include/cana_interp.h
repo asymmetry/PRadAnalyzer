@@ -3,6 +3,7 @@
 
 #include "cana_utils.h"
 #include <cmath>
+#include <vector>
 
 namespace cana
 {
